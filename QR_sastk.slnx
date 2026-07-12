@@ -2,7 +2,7 @@
   <Folder Name="/Src/">
     <Project Path="QR.Application/QR.Application.csproj" />
     <Project Path="QR.Common/QR.Common.csproj" />
-    <Project Path="QR.Core/QR.Domain.csproj" />
+    <Project Path="QR.Domain/QR.Domain.csproj" Id="b4b39ba4-ebc7-40ed-b75c-01a1d5aa7bbf" />
     <Project Path="QR.Infrastructure/QR.Infrastructure.csproj" />
     <Project Path="QRAdmin.API/QRAdmin.API.csproj" />
     <Project Path="QRUser.API/QRUser.API.csproj" />
