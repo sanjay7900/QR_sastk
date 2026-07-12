@@ -1,0 +1,6 @@
+@QRAdmin.API_HostAddress = http://localhost:5027
+
+GET {{QRAdmin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

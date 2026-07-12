@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="QRAdmin.API/QRAdmin.API.csproj" />
+  </Folder>
+</Solution>
