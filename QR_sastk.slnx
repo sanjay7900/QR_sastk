@@ -1,5 +1,10 @@
 <Solution>
   <Folder Name="/Src/">
+    <Project Path="QR.Application/QR.Application.csproj" />
+    <Project Path="QR.Common/QR.Common.csproj" />
+    <Project Path="QR.Core/QR.Domain.csproj" />
+    <Project Path="QR.Infrastructure/QR.Infrastructure.csproj" />
     <Project Path="QRAdmin.API/QRAdmin.API.csproj" />
+    <Project Path="QRUser.API/QRUser.API.csproj" />
   </Folder>
 </Solution>

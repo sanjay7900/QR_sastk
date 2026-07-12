@@ -1,0 +1,6 @@
+@QRUser.API_HostAddress = http://localhost:5181
+
+GET {{QRUser.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
